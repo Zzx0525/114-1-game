@@ -429,7 +429,7 @@ function draw() {
 
         fill(255, creditsAlpha);
         textSize(16);
-        text("製作人員:414XXX241 周O暄 、 Gemini", width / 2, height / 2 + 20);
+        text("製作人員:414XXX241 OOO 、 Gemini", width / 2, height / 2 + 20);
 
         // 回到開頭按鈕
         rectMode(CENTER);
@@ -1679,7 +1679,7 @@ function drawGameOverScreen() {
     if (gameOverCharIndex >= totalChars) {
       // 顯示製作人員
       textSize(16);
-      text("製作人員:414XXX241 周O暄 、 Gemini", width / 2, height / 2 + 50);
+      text("製作人員:414XXX241 OOO 、 Gemini", width / 2, height / 2 + 50);
 
       rectMode(CENTER);
       // 滑鼠懸停效果
