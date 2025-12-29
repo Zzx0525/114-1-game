@@ -199,7 +199,7 @@ function preload() {
   qImg = loadImage('Q.png');
   loadingImg = loadImage('back1.jpg');
   gameOverImg = loadImage('back2.jpg');
-  endImg = loadImage('end.jpg'); // 載入結局圖片
+  endImg = loadImage('end.JPG'); // 載入結局圖片
   typeSound = loadSound('voice/type.mp3'); // 載入打字音效 (請確保檔案存在)
   clickSound = loadSound('voice/click.mp3'); // 載入點擊音效
   bgm = loadSound('voice/bgm.mp3'); // 載入背景音樂
